@@ -55,6 +55,11 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=shivam-786-sys&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shivam Dwivedi's GitHub Trophies" />
 </p>
+- 👨‍💻 All of my projects are available at [https://github.com/shivam-786-sys?tab=repositories](https://github.com/shivam-786-sys?tab=repositories)
+
+- 💬 Ask me about **React, Machine Learning**
+
+- 📫 How to reach me **https://www.linkedin.com/in/shivam-d9/**
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-786-sys&theme=radical&radius=10" alt="shivam-786-sys's Activity Graph" />
 </p>
