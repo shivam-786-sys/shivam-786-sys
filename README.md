@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=shivam-786-sys">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+    <img src="https://komarev.com/ghpvc/?username=shivam-786-sys&label=Profile%20views&color=00FFFF&style=flat-square" alt="shivam-786-sys's profile views" />
   </a>
 </p>
 
